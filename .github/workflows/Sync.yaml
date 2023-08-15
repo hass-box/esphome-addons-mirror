@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - run: |
           rm -rf .temp
-          git clone -q --single-branch --depth=1 --branch=master https://github.com/esphome/home-assistant-addon.git .temp
+          git clone -q --single-branch --depth=1 --branch=main https://github.com/esphome/home-assistant-addon.git .temp
           
       - name: Create local changes
         run: |
