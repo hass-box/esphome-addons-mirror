@@ -1,4 +1,4 @@
-## 2023.11.4
+## 2023.11.6
 
-- Allow images to be downloaded from URLs [esphome#5214](https://github.com/esphome/esphome/pull/5214) by [@landonr](https://github.com/landonr)
+- Fix write_speaker without speaker in config [esphome#5847](https://github.com/esphome/esphome/pull/5847) by [@jesserockz](https://github.com/jesserockz)
 
