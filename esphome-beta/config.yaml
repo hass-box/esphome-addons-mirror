@@ -35,7 +35,7 @@ name: ESPHome (beta)
 version: 2023.12.7
 slug: esphome-beta
 description: Beta version of ESPHome add-on
-image: ghcr.dockerproxy.com/esphome/esphome-hassio
+image: ghcr.io/esphome/esphome-hassio
 stage: experimental
 advanced: true
 options:
