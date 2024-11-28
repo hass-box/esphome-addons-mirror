@@ -47,7 +47,7 @@ esphome-dev:
   directory: esphome-dev
   name: ESPHome Device Compiler (dev)
   panel_title: ESPHome Compiler (dev)
-  version: "2024.12.0-dev20241127"  # DEV
+  version: "2024.12.0-dev20241128"  # DEV
   slug: esphome-dev
   description: "Development version of ESPHome Device Compiler"
   url: https://next.esphome.io/
@@ -72,7 +72,7 @@ esphome-beta:
   directory: esphome-beta
   name: ESPHome Device Compiler (beta)
   panel_title: ESPHome Compiler (beta)
-  version: "2024.11.1"  # BETA
+  version: "2024.11.2"  # BETA
   slug: esphome-beta
   description: "Beta version of ESPHome Device Compiler"
   url: https://beta.esphome.io/
@@ -87,7 +87,7 @@ esphome-stable:
   directory: esphome
   name: ESPHome Device Compiler
   panel_title: ESPHome Compiler
-  version: "2024.11.1"  # STABLE
+  version: "2024.11.2"  # STABLE
   slug: esphome
   description: "Build your own smart home devices using ESPHome, no programming experience required."
   image: ghcr.io/esphome/esphome-hassio
