@@ -6,7 +6,6 @@ base: &base
   url: https://esphome.io/
   arch:
     - amd64
-    - armv7
     - aarch64
   # Uses Home Assistant Supervisor API (auth)
   hassio_api: true
@@ -47,7 +46,7 @@ esphome-dev:
   directory: esphome-dev
   name: ESPHome Device Builder (dev)
   panel_title: ESPHome Builder (dev)
-  version: "2025.2.0-dev20250202"  # DEV
+  version: "2025.2.0-dev20250205"  # DEV
   slug: esphome-dev
   description: "Development version of ESPHome Device Builder"
   url: https://next.esphome.io/
